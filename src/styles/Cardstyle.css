@@ -1,0 +1,29 @@
+.search {
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: darkgray;
+    border-radius: 5px;
+    width: 100%;
+    padding-left: 30px;
+}
+.container button{
+    background-color: rgb(13, 13, 247);
+    border-radius: 10px;
+    color: white;
+    border: none;
+    padding: 5px;
+}
+.container p{
+    color: green;
+}
+.carname{
+    color: brown;
+}
+.cartype{
+    color: grey;
+}
+.container span{
+    color: grey;
+}

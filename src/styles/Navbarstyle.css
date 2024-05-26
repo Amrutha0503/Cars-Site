@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@400;600&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    padding: 10px;
+    background-color: darkgray;;
+}
+.navbar .btn {
+    background-color: brown;
+    border-radius: 5px;
+    padding: 2px;
+    
+}
+
+.navbar .contact{
+    margin-right: 900px;
+}
+.navbar .signup{
+    background-color: black;
+    border-radius: 5px;
+    width: 50px;
+    border: none;
+    color: white;
+}

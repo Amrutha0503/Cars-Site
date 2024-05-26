@@ -1,0 +1,22 @@
+
+.search p{
+    margin:10px;
+}
+
+.search input{
+    border-radius: 10px;
+    border: none;
+    height: 30px;
+    margin: 20px;
+    width: 300px;
+}
+
+.search button{
+   height: max-content;
+   border: none;
+   padding: 2px;
+   
+   background-color: black;
+   color: white;
+   border-radius: 3px;
+}
